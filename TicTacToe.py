@@ -1,5 +1,6 @@
 # https://youtu.be/Bk9hlNZc6sE
 # Coding Spot - Coding an Unbeatable Tic Tac Toe AI Using Python and the Minimax Algorithm
+# adding this new comment to practice git checkin / checkout
 
 from constants import *
 from board import Board
